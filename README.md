@@ -1,4 +1,6 @@
 Doctor Diagnosis Agent
+
+
 Introduction
 Welcome to the Doctor Diagnosis Agent project, an advanced AI-driven platform that revolutionizes the way medical diagnoses are approached. With the integration of image analysis, automated reporting, and interactive chat functionalities, this project is tailored to assist healthcare professionals and patients alike in obtaining insights and making informed decisions about health.
 
